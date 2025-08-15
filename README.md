@@ -1,2 +1,2 @@
-# BachelorThesis
-Exploration of Optimal Geometric Median Point Search Method Using Weiszfeld Algorithm
+# Exploration of Optimal Geometric Median Point Search Method Using Weiszfeld Algorithm
+An undergraduate thesis project for Bachelor of Science, this project focuses how to utilize the clustering point by using Weiszfeld algorithm as an alternative clustering methods rather than using scikit-learn package within single amount and multiple amount of clustering point. On multiple clustering points, I use the hard clustering and probabilistic assigments methods using the algorithm given to interpret the weighted data and order q. This model also intepret with using Xie-Beni Index to show which model is the best for probabilistic assignments methods.
